@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+.btn {
+    background: #ffc107;
+    color: #291E4F;
+    padding: 14px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: .2s ease;
+    font-weight: 600;
+}
+
+.list-group{
+    margin: 10px;
+}
+
+
+
