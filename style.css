@@ -24,7 +24,13 @@ p{
 }
 
 .list-group{
-    margin: 10px;
+    margin: 25px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: dodgerblue;
 }
 
 
