@@ -44,7 +44,7 @@ function getData() {
 
 
 
-//Function for getMale
+//Function for getMale using .filter
 
 function  getMale() {
     //Get API
